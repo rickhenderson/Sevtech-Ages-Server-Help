@@ -1,4 +1,4 @@
-# Sevtech Ages Server Help
+# SevTech Ages Server Help
 A collection of tips to help users who have trouble installing Sevtech Server.
 
 ## May 4, 2020
