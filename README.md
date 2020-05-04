@@ -9,4 +9,6 @@ The SevTech client itself requires at least 3GB of RAM, even though the Twitch i
 
 ## Server Installation
 The server will require the Java Development Kit (JDK) so make sure you install it. It does not have to be installed first.
-You  may need the Java 8 version specifically. Download available at https://jdk.java.net/java-se-ri/8-MR3.
+You  may need the Java 8 version specifically. Download available at https://www.java.com/en/download/win10.jsp for Windows.
+
+
